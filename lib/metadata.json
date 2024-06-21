@@ -1,30 +1,41 @@
 {
   "vaultName": "My Obsidian Notes",
-  "lastExport": 1718808970894,
+  "lastExport": 1718940724926,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon math-booster-preview-enabled",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
+    "figs/Pasted image 20240619175707.png",
+    "figs/Screenshot 2024-06-19 at 10.16.51.png",
+    "figs/Screenshot 2024-06-19 at 10.37.47.png",
+    "figs/Screenshot 2024-06-19 at 11.03.38.png",
+    "figs/Screenshot 2024-06-19 at 18.02.59.png",
+    "figs/Screenshot 2024-06-20 at 17.43.27.png",
+    "figs/Screenshot 2024-06-20 at 17.44.35.png",
+    "figs/Screenshot 2024-06-20 at 17.53.04.png",
+    "figs/Screenshot 2024-06-20 at 20.34.10.png",
+    "figs/Screenshot 2024-06-20 at 20.49.46.png",
+    "figs/Screenshot 2024-06-21 at 10.15.55.png",
     "llms/Large Language Models.md",
     "ml/attention.md",
+    "ml/CurseOfDimensionality.md",
+    "ml/perceptron.md",
     "nlp/word-embedding.md",
     "opt/Optimization.md",
     "papers/Paper Reading.md",
+    "prob-stats/cauchy-schwarz-inequality.md",
+    "prob-stats/cdf.md",
+    "prob-stats/chebyshev-inequality.md",
+    "prob-stats/clt.md",
     "prob-stats/expfam.md",
-    "prob-stats/Probability and Statistics.md",
-    "Cauchy-Schwartz inequality.md",
-    "Central Limit Theorem.md",
-    "Chebyshev's inequality.md",
+    "prob-stats/gaussian-dist.md",
+    "prob-stats/jensen-inequality.md",
+    "prob-stats/MarkovInequality.md",
+    "prob-stats/prob-stats.md",
     "index.md",
-    "jensen-inequality.md",
-    "MarkovInequality.md",
     "nonasymptotic-bounds.md",
-    "Pasted image 20240619175707.png",
-    "Screenshot 2024-06-19 at 10.16.51.png",
-    "Screenshot 2024-06-19 at 10.37.47.png",
-    "Screenshot 2024-06-19 at 11.03.38.png",
-    "Screenshot 2024-06-19 at 18.02.59.png",
+    "resources.md",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
     "lib/fonts/2d5198822ab091ce4305.woff2",
@@ -103,340 +114,406 @@
     "lib/fonts/MathJax_Vector-Bold.woff"
   ],
   "fileInfo": {
-    "prob-stats/expfam.md": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 10541,
-      "exportedPath": "prob-stats/expfam.html",
-      "dependencies": []
-    },
-    "prob-stats/Probability and Statistics.md": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 423,
-      "exportedPath": "prob-stats/Probability and Statistics.html",
+    "nonasymptotic-bounds.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 858,
+      "exportedPath": "nonasymptotic-bounds.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/media/3d6c1bdc4d87cde4de67.svg": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 279,
       "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
-    "index.md": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 609,
-      "exportedPath": "index.html",
+    "figs/Pasted image 20240619175707.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 363112,
+      "exportedPath": "figs/Pasted image 20240619175707.png",
+      "dependencies": []
+    },
+    "figs/Screenshot 2024-06-19 at 10.16.51.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 277621,
+      "exportedPath": "figs/Screenshot 2024-06-19 at 10.16.51.png",
+      "dependencies": []
+    },
+    "figs/Screenshot 2024-06-19 at 10.37.47.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 429651,
+      "exportedPath": "figs/Screenshot 2024-06-19 at 10.37.47.png",
+      "dependencies": []
+    },
+    "figs/Screenshot 2024-06-19 at 11.03.38.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 91026,
+      "exportedPath": "figs/Screenshot 2024-06-19 at 11.03.38.png",
+      "dependencies": []
+    },
+    "figs/Screenshot 2024-06-19 at 18.02.59.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 362784,
+      "exportedPath": "figs/Screenshot 2024-06-19 at 18.02.59.png",
+      "dependencies": []
+    },
+    "figs/Screenshot 2024-06-20 at 17.43.27.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 210123,
+      "exportedPath": "figs/Screenshot 2024-06-20 at 17.43.27.png",
+      "dependencies": []
+    },
+    "figs/Screenshot 2024-06-20 at 17.44.35.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 137581,
+      "exportedPath": "figs/Screenshot 2024-06-20 at 17.44.35.png",
+      "dependencies": []
+    },
+    "figs/Screenshot 2024-06-20 at 17.53.04.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 151824,
+      "exportedPath": "figs/Screenshot 2024-06-20 at 17.53.04.png",
+      "dependencies": []
+    },
+    "figs/Screenshot 2024-06-20 at 20.34.10.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 82936,
+      "exportedPath": "figs/Screenshot 2024-06-20 at 20.34.10.png",
+      "dependencies": []
+    },
+    "figs/Screenshot 2024-06-20 at 20.49.46.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 110959,
+      "exportedPath": "figs/Screenshot 2024-06-20 at 20.49.46.png",
+      "dependencies": []
+    },
+    "figs/Screenshot 2024-06-21 at 10.15.55.png": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 222193,
+      "exportedPath": "figs/Screenshot 2024-06-21 at 10.15.55.png",
       "dependencies": []
     },
     "llms/Large Language Models.md": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 0,
       "exportedPath": "llms/Large Language Models.html",
       "dependencies": []
     },
     "ml/attention.md": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 23,
       "exportedPath": "ml/attention.html",
       "dependencies": []
     },
+    "ml/CurseOfDimensionality.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 106,
+      "exportedPath": "ml/CurseOfDimensionality.html",
+      "dependencies": []
+    },
+    "ml/perceptron.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 215,
+      "exportedPath": "ml/perceptron.html",
+      "dependencies": []
+    },
     "nlp/word-embedding.md": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 4119,
       "exportedPath": "nlp/word-embedding.html",
       "dependencies": []
     },
     "opt/Optimization.md": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 0,
       "exportedPath": "opt/Optimization.html",
       "dependencies": []
     },
     "papers/Paper Reading.md": {
-      "modifiedTime": 1718808970894,
+      "modifiedTime": 1718940724926,
       "sourceSize": 0,
       "exportedPath": "papers/Paper Reading.html",
       "dependencies": []
     },
-    "Cauchy-Schwartz inequality.md": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 271,
-      "exportedPath": "Cauchy-Schwartz inequality.html",
+    "prob-stats/cauchy-schwarz-inequality.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 1979,
+      "exportedPath": "prob-stats/cauchy-schwarz-inequality.html",
       "dependencies": []
     },
-    "Central Limit Theorem.md": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 0,
-      "exportedPath": "Central Limit Theorem.html",
+    "prob-stats/cdf.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 42,
+      "exportedPath": "prob-stats/cdf.html",
       "dependencies": []
     },
-    "Chebyshev's inequality.md": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 342,
-      "exportedPath": "Chebyshev's inequality.html",
+    "prob-stats/chebyshev-inequality.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 366,
+      "exportedPath": "prob-stats/chebyshev-inequality.html",
       "dependencies": []
     },
-    "jensen-inequality.md": {
-      "modifiedTime": 1718808970894,
+    "prob-stats/clt.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 23,
+      "exportedPath": "prob-stats/clt.html",
+      "dependencies": []
+    },
+    "prob-stats/expfam.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 10541,
+      "exportedPath": "prob-stats/expfam.html",
+      "dependencies": []
+    },
+    "prob-stats/gaussian-dist.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 6942,
+      "exportedPath": "prob-stats/gaussian-dist.html",
+      "dependencies": []
+    },
+    "prob-stats/jensen-inequality.md": {
+      "modifiedTime": 1718940724926,
       "sourceSize": 131,
-      "exportedPath": "jensen-inequality.html",
+      "exportedPath": "prob-stats/jensen-inequality.html",
       "dependencies": []
     },
-    "MarkovInequality.md": {
-      "modifiedTime": 1718808970894,
+    "prob-stats/MarkovInequality.md": {
+      "modifiedTime": 1718940724926,
       "sourceSize": 667,
-      "exportedPath": "MarkovInequality.html",
+      "exportedPath": "prob-stats/MarkovInequality.html",
       "dependencies": []
     },
-    "nonasymptotic-bounds.md": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 857,
-      "exportedPath": "nonasymptotic-bounds.html",
+    "prob-stats/prob-stats.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 512,
+      "exportedPath": "prob-stats/prob-stats.html",
       "dependencies": []
     },
-    "Pasted image 20240619175707.png": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 363112,
-      "exportedPath": "Pasted image 20240619175707.png",
+    "index.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 852,
+      "exportedPath": "index.html",
       "dependencies": []
     },
-    "Screenshot 2024-06-19 at 10.16.51.png": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 277621,
-      "exportedPath": "Screenshot 2024-06-19 at 10.16.51.png",
-      "dependencies": []
-    },
-    "Screenshot 2024-06-19 at 10.37.47.png": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 429651,
-      "exportedPath": "Screenshot 2024-06-19 at 10.37.47.png",
-      "dependencies": []
-    },
-    "Screenshot 2024-06-19 at 11.03.38.png": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 91026,
-      "exportedPath": "Screenshot 2024-06-19 at 11.03.38.png",
-      "dependencies": []
-    },
-    "Screenshot 2024-06-19 at 18.02.59.png": {
-      "modifiedTime": 1718808970894,
-      "sourceSize": 362784,
-      "exportedPath": "Screenshot 2024-06-19 at 18.02.59.png",
+    "resources.md": {
+      "modifiedTime": 1718940724926,
+      "sourceSize": 56,
+      "exportedPath": "resources.html",
       "dependencies": []
     }
   }
