@@ -1,20 +1,27 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Viet Nguyen"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - pubs.qmd
+      - notes.qmd
+  twitter-card:
+    creator: "@dragonstyle"
+    site: "@rstudio"
 
 format:
   html:
-    theme: simplex
+    theme: Simplex
+    max-width: 2000px	
+    linkcolor: "#16537e"
+    toc-color: "#16537e"
     css: styles.css
     toc: true
 
-
-
+theme:
+  light: flatly
+  dark: darkly
