@@ -20,7 +20,7 @@ about:
 # About me
 
 Hi, I am currently a junior student majoring in Data Science at [University of Economics Ho Chi Minh City (UEH)](https://en.ueh.edu.vn/). 
-My research lies in multimodal models <br> and generative models. I'm also keen to work on improving models' interpretability.
+My research lies in multimodal models and generative models. I'm also keen to work on models' interpretability.
 
 # News
 
