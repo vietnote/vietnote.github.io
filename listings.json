@@ -1,6 +1,9 @@
 [
   {
     "listing": "/notes.html",
-    "items": []
+    "items": [
+      "/notes/gaussian-distribution/gaussian-distritbution.html",
+      "/notes/kl-divergence/kl-divergence.html"
+    ]
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "notes/gaussian-distribution/gaussian-distritbution.html",
+    "href": "notes/gaussian-distribution/gaussian-distritbution.html",
+    "title": "Gaussian Distribution",
+    "section": "",
+    "text": "Introduction\n\\[\n\\begin{equation} \\label{eq:uni-gaussian-pdf}\n\\mathcal{N}(\\mu, \\sigma) = \\dfrac{1}{\\sqrt{2\\pi\\sigma^2}}\\exp(-\\dfrac{(x-\\mu)^2}{2\\sigma^2})\n\\end{equation}\n\\tag{1}\\]\nAs shown in Equation 1\n\n\nNormalization constant\n\n\nPrinciple of Maximum Entropy\n\n\nMultivariate Gaussian"
+  },
+  {
     "objectID": "pubs.html",
     "href": "pubs.html",
     "title": "Publications",
@@ -32,7 +39,7 @@
     "href": "notes.html",
     "title": "Notes",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nGaussian Distribution\n\n\n\n\n\nThe most widely used distribution for continuous random variables.\n\n\n\n\n\nJul 3, 2024\n\n\n1 min\n\n\n\n\n\n\n\nKL Divergence\n\n\n\n\n\nOne way to measure the distance between two distributions.\n\n\n\n\n\nJul 3, 2024\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -40,5 +47,12 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "notes/kl-divergence/kl-divergence.html",
+    "href": "notes/kl-divergence/kl-divergence.html",
+    "title": "KL Divergence",
+    "section": "",
+    "text": "Introduction\n\\(f\\)-Divergence:\n\\[\nD_{f}(p_{data} \\| p_\\theta) = \\int p_\\theta(x) f \\left(\\dfrac{p_{data}(x)}{p_\\theta(x)}\\right)dx\n\\]\nwhen \\(f = x\\log x\\), we have the KL Divergence:\n\\[\nD_{KL}(p_{data} \\| p_{\\theta}) = \\int p_{data}(x) \\log \\left(\\dfrac{p_{data}(x)}{p_\\theta(x)}\\right)dx\n\\]\n\n\nChain rule for KL Divergence\n\n\n\nApproximating KL Divergence"
   }
 ]
